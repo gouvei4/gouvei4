@@ -2,7 +2,7 @@
 
 - 🔭  Atualmente estou estudando Sistemas para Internet.
 - 👯 Estou procurando trabalho na area de Front-End.
-- 📫 E-mail para contato - gouvei44@gmail.com
+- 📫 E-mail para contato - developer.gouveia@gmail.com
 
 <div align="center">
   <a href="https://github.com/gouvei4">

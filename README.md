@@ -1,7 +1,7 @@
 ### Olá meu nome é Afonso 👋
 
 - 🔭  Atualmente estou estudando Sistemas para Internet.
-- 👯 Estou procurando trabalho na area de Front-End.
+- 👯 Estou procurando trabalho na area de Back-End.
 - 📫 E-mail para contato - developer.gouveia@gmail.com
 
 <div align="center">

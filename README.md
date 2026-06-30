@@ -19,8 +19,8 @@
 
 <div align="center">
   <a href="https://github.com/gouvei4">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gouvei4&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Estatísticas do GitHub"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouvei4&layout=compact&langs_count=7&theme=dark&cache_seconds=86400" alt="Linguagens mais usadas"/>
+    <img height="180em" src="https://SEU-DEPLOY.vercel.app/api?username=gouvei4&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://SEU-DEPLOY.vercel.app/api/top-langs/?username=gouvei4&layout=compact&langs_count=7&theme=dark" alt="Top Langs"/>
   </a>
 </div>
 
